@@ -6,7 +6,5 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="800">
-    <Grid>
-        
-    </Grid>
+    <Grid RenderTransformOrigin="0.234,0.316"/>
 </Window>
